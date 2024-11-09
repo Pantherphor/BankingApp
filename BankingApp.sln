@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34601.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingApp.API", "BankingApp.API\BankingApp.API.csproj", "{6764A316-FB39-4005-BEA6-9D711ED2FBD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingApp.API", "BankingApp.API\BankingApp.API.csproj", "{6764A316-FB39-4005-BEA6-9D711ED2FBD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingApp.Applicaition", "BankingApp.Applicaition\BankingApp.Applicaition.csproj", "{C62B92B4-A1CA-4E4D-AC8E-4F69F7831B35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingApp.Applicaition", "BankingApp.Applicaition\BankingApp.Applicaition.csproj", "{C62B92B4-A1CA-4E4D-AC8E-4F69F7831B35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingApp.Core", "BankingApp.Core\BankingApp.Core.csproj", "{1A3D71D7-3F07-418B-854E-A8B3D9E0EFCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingApp.Core", "BankingApp.Core\BankingApp.Core.csproj", "{1A3D71D7-3F07-418B-854E-A8B3D9E0EFCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingApp.Infrastructure", "BankingApp.Infrastructure\BankingApp.Infrastructure.csproj", "{B073B164-96E6-4052-B562-9C44462E5F44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingApp.Infrastructure", "BankingApp.Infrastructure\BankingApp.Infrastructure.csproj", "{B073B164-96E6-4052-B562-9C44462E5F44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingApp.Tests", "BankingApp.Tests\BankingApp.Tests.csproj", "{A9F87606-12AC-4CD2-A61D-D3CB58C8367B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingApp.Tests", "BankingApp.Tests\BankingApp.Tests.csproj", "{A9F87606-12AC-4CD2-A61D-D3CB58C8367B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
